@@ -1,4 +1,4 @@
-# 🌦️ cep-clima-js-iw2
+# 🌦️ Projeto cep Clima
 
 Projeto desenvolvido para buscar informações de endereço a partir do **CEP** e exibir os dados de **clima em tempo real** da cidade correspondente.
 
