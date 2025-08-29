@@ -20,14 +20,4 @@ Projeto desenvolvido para buscar informações de endereço a partir do **CEP** 
 - 📝 Histórico de pesquisas realizadas.  
 - 🧹 Opção de limpar os campos e resultados.  
 
----
-
-## 📷 Demonstração
-
-> *(adicione aqui um print ou gif do projeto rodando)*
-
----
-
-## 📂 Estrutura do projeto
-
 
